@@ -53,5 +53,4 @@ Serviço faltando? Dados desatualizados? Endereço ou horário errado? Abra uma 
 
 ---
 
-Site: https://bussolasocial.org  
 IESB — Extensão Curricularizada, 3º semestre ADS
