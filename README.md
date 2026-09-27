@@ -2,7 +2,7 @@
 
 **Serviços públicos gratuitos perto de você.**
 
-A Bússola Social é um site gratuito que reúne informações sobre serviços públicos gratuitos disponíveis no Distrito Federal e Entorno goiano. Qualquer pessoa pode descobrir o que existe de gratuito perto de onde mora — sem cadastro, sem login e sem custo.
+A Bússola Social é uma página gratuita que reúne informações sobre serviços públicos gratuitos disponíveis no Distrito Federal e Entorno goiano. Qualquer pessoa pode descobrir o que existe de gratuito perto de onde mora — sem cadastro, sem login e sem custo.
 
 Projeto de Extensão Curricularizada do [Centro Universitário IESB](https://www.iesb.br), desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas (3º semestre), Trilha de Inovação e Criatividade.
 
