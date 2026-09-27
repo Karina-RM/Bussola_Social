@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cnes-10634-paranoa",
+    "nome": "UBS 1 PARANOA",
+    "categoria": "saude",
+    "clinica_escola": true,
+    "localidade": "paranoa",
+    "endereco": "QD 21 AREA ESPECIAL CONJUNTO 15, 15, PARANOA",
+    "descricao": "UBS / Centro de Saude",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09"
+  },
+  {
+    "id": "cnes-6226353-paranoa",
+    "nome": "CLIAMA C A P C E LTDA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "paranoa",
+    "endereco": "NUCLEO RURAL DESEMBARGADOR COLOMBO CERQUEIRA, 580, PARANOA",
+    "descricao": "Policlinica",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "6137116082"
+  }
+]

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bússola Social — Serviços gratuitos perto de você</title>
+  <meta name="description" content="Descubra serviços públicos gratuitos de saúde, assistência social e extensão universitária no Distrito Federal e Entorno.">
+  <meta property="og:title" content="Bússola Social — Serviços gratuitos perto de você">
+  <meta property="og:description" content="Descubra serviços públicos gratuitos de saúde, assistência social e extensão universitária no DF e Entorno.">
+  <meta property="og:image" content="img/og-card.png">
+  <meta property="og:url" content="https://bussolasocial.org">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/componentes.css">
+</head>
+<body>
+  <noscript>
+    <main style="padding:2rem;font-family:sans-serif;text-align:center;">
+      <h1 style="color:#B3252A;">Bússola Social</h1>
+      <p>Serviços públicos gratuitos no DF e Entorno</p>
+      <p>Este site precisa de JavaScript para funcionar. Ative o JavaScript no seu navegador.</p>
+      <p style="font-weight:bold;margin-top:1.5rem;">Em emergência, ligue:</p>
+      <p>SAMU <strong>192</strong> &nbsp;|&nbsp; Bombeiros <strong>193</strong> &nbsp;|&nbsp; CVV <strong>188</strong> (apoio emocional)</p>
+    </main>
+  </noscript>
+
+  <a href="#conteudo-principal" class="pular-conteudo">Pular para o conteúdo</a>
+
+  <header id="cabecalho"></header>
+
+  <main id="conteudo-principal" role="main" aria-labelledby="titulo-pagina" tabindex="-1">
+    <div class="conteiner">
+      <h1 id="titulo-pagina">Serviços gratuitos perto de você</h1>
+
+      <div class="busca-localidade">
+        <label for="localidade" class="busca-rotulo">Onde você está?</label>
+        <select id="localidade" class="busca-select" aria-label="Selecione sua cidade ou região administrativa">
+          <option value="">Escolha sua cidade ou região</option>
+        </select>
+      </div>
+
+      <div id="filtros-categoria" class="busca-categorias" hidden>
+        <button class="pilula pilula-ativa" data-cat="todas">Todos</button>
+        <button class="pilula" data-cat="saude">Saúde</button>
+        <button class="pilula" data-cat="assistencia_social">Assistência social</button>
+        <button class="pilula" data-cat="extensao">Extensão</button>
+      </div>
+
+      <div class="busca-contador" role="status" aria-live="polite" aria-atomic="true"></div>
+
+      <div id="busca-pesquisa" class="busca-pesquisa" hidden>
+        <label for="busca-texto" class="sr-only">Buscar por nome ou descrição</label>
+        <input type="text" id="busca-texto" class="busca-input" placeholder="Buscar por nome ou descrição..." autocomplete="off" inputmode="search">
+      </div>
+
+      <div id="lista-servicos" class="lista-servicos">
+        <div class="lista-vazia lista-vazia-inicial">
+          <svg width="72" height="72" viewBox="0 0 32 32" fill="none" aria-hidden="true" class="lista-vazia-agulha">
+            <circle cx="16" cy="16" r="14" stroke="#E4DFDA" stroke-width="2"/>
+            <polygon points="16,5 19,16 16,14 13,16" fill="#E4DFDA"/>
+            <polygon points="16,27 13,16 16,18 19,16" fill="#E4DFDA"/>
+          </svg>
+          <p>Escolha sua cidade acima para ver os serviços gratuitos perto de você.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer id="rodape"></footer>
+
+  <script src="js/layout.js" defer></script>
+  <script src="js/acessibilidade.js" defer></script>
+  <script src="js/dados.js" defer></script>
+  <script src="js/estado.js" defer></script>
+  <script src="js/busca.js" defer></script>
+</body>
+</html>

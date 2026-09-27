@@ -1,0 +1,79 @@
+[
+  {
+    "id": "cnes-9731113-samambaia",
+    "nome": "ODONTO CLINICA SALGUEIRO",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "samambaia",
+    "endereco": "QN, 314, SAMAMBAIA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "6130451767"
+  },
+  {
+    "id": "cnes-8407231-samambaia",
+    "nome": "INTEGRALE SAUDE",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "samambaia",
+    "endereco": "QS 110 LOTES, S/N, SAMAMBAIA SUL",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61)991543286"
+  },
+  {
+    "id": "cnes-2779056-samambaia",
+    "nome": "MSF SERVICOS MEDICOS",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "samambaia",
+    "endereco": "QS612 CONJUNTO E LOTE, 1, SAMAMBAIA NORTE",
+    "descricao": "Policlinica",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "6130487700"
+  },
+  {
+    "id": "cnes-2866978-samambaia",
+    "nome": "PARTMED E ODONTOCOMPANY SAMAMBAIA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "samambaia",
+    "endereco": "Q QN 310 CONJUNTO 02 LOTE, 05, SAMAMBAIA SUL",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09"
+  },
+  {
+    "id": "cnes-3429180-samambaia",
+    "nome": "VISAO INSTITUTOS OFTALMOLOGICOS ASSOCIADOS",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "samambaia",
+    "endereco": "Q QN 204 CJ 1 LT 17 TERREO SALA 1, S/N, SAMAMBAIA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61) 3038-8001"
+  },
+  {
+    "id": "cnes-4045629-samambaia",
+    "nome": "INSTITUTO DR FABIANA RODRIGUES",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "samambaia",
+    "endereco": "ADE CONJUNTO 20 LOTE, 110, SAMAMBAIA SUL",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "6133514971"
+  }
+]

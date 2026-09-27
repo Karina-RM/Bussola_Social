@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#B3252A"/>
+  <circle cx="600" cy="220" r="80" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  <polygon points="600,150 620,260 600,250 580,260" fill="#FFFFFF"/>
+  <polygon points="600,440 580,260 600,280 620,260" fill="#E8A33D"/>
+  <text x="600" y="400" text-anchor="middle" font-family="system-ui,sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Bússola Social</text>
+  <text x="600" y="470" text-anchor="middle" font-family="system-ui,sans-serif" font-size="32" fill="#FDEBD3">Serviços gratuitos perto de você</text>
+  <text x="600" y="580" text-anchor="middle" font-family="system-ui,sans-serif" font-size="24" fill="#FFFFFF" opacity="0.7">bussolasocial.org</text>
+</svg>

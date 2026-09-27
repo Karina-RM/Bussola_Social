@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cnes-2673924-riacho-fundo",
+    "nome": "UBS 04 RIACHO FUNDO II",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "riacho-fundo",
+    "endereco": "AREA ESPECIAL N 01 CAUB I, 01, RIACHO FUNDO II",
+    "descricao": "UBS / Centro de Saude",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61 20171145"
+  }
+]

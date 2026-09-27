@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cnes-4091957-vicente-pires",
+    "nome": "AMOR SAUDE VICENTE PIRES",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "vicente-pires",
+    "endereco": "RUA 3 CHACARA 94, S/N, VICENTE PIRES",
+    "descricao": "Policlinica",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61992202777"
+  }
+]

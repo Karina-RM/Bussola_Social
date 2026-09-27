@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cnes-720836-candangolandia",
+    "nome": "RECOMECAR FISIOTERAPIA E PILATES",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "candangolandia",
+    "endereco": "QUADRA QR 03 LOTES MI 01 E MI 02, 02, CANDANGOLANDIA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61)3060-0055"
+  }
+]

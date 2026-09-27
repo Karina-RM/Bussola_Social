@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cras-asa-norte",
+    "nome": "CRAS Asa Norte",
+    "categoria": "assistencia_social",
+    "clinica_escola": false,
+    "localidade": "plano-piloto",
+    "endereco": "CLN 116, Bloco E, Asa Norte",
+    "horario": "Segunda a sexta, 8h \u00e0s 17h",
+    "telefone": "(61) 3340-8200",
+    "descricao": "Cadastro \u00danico, PAIF e orienta\u00e7\u00e3o sobre benef\u00edcios socioassistenciais.",
+    "fonte": "SEDES-DF",
+    "fonte_url": "https://www.sedes.df.gov.br/cras",
+    "atualizado_em": "2026-09"
+  },
+  {
+    "id": "creas-plano-piloto",
+    "nome": "CREAS Plano Piloto",
+    "categoria": "assistencia_social",
+    "clinica_escola": false,
+    "localidade": "plano-piloto",
+    "endereco": "CLN 114, Bloco A, Asa Norte",
+    "horario": "Segunda a sexta, 8h \u00e0s 17h",
+    "telefone": "(61) 2104-1000",
+    "descricao": "Atendimento a pessoas em situa\u00e7\u00e3o de viola\u00e7\u00e3o de direitos e viol\u00eancia dom\u00e9stica.",
+    "fonte": "SEDES-DF",
+    "fonte_url": "https://www.sedes.df.gov.br/creas",
+    "atualizado_em": "2026-09"
+  },
+  {
+    "id": "npj-unb",
+    "nome": "N\u00facleo de Pr\u00e1tica Jur\u00eddica da UnB",
+    "categoria": "assistencia_social",
+    "clinica_escola": true,
+    "localidade": "plano-piloto",
+    "endereco": "Campus Darcy Ribeiro, Faculdade de Direito, Asa Norte",
+    "horario": "Segunda a sexta, 8h \u00e0s 12h e 14h \u00e0s 18h",
+    "telefone": "(61) 3107-7700",
+    "descricao": "Assist\u00eancia jur\u00eddica gratuita para pessoas com renda familiar de at\u00e9 3 sal\u00e1rios m\u00ednimos. Atendimento por estudantes com supervis\u00e3o.",
+    "fonte": "Universidade de Bras\u00edlia",
+    "fonte_url": "https://dex.unb.br/",
+    "atualizado_em": "2026-09"
+  }
+]

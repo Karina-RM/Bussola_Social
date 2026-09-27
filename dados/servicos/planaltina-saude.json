@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cnes-4539982-planaltina",
+    "nome": "AURA ODONTOLOGIA ESTICA AVANCADA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "planaltina",
+    "endereco": "QUADRA 02 CONJUNTO A LOTE, 40, PLANALTINA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "6198262492"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "extensao-assessoria-juridica-unb",
+    "nome": "Assessoria Jur\u00eddica Popular - NAJUP",
+    "categoria": "extensao",
+    "clinica_escola": false,
+    "localidade": "plano-piloto",
+    "endereco": "Campus Darcy Ribeiro, Faculdade de Direito, Asa Norte",
+    "horario": "Segunda a sexta, 9h \u00e0s 12h e 14h \u00e0s 18h",
+    "telefone": "(61) 3107-7700",
+    "descricao": "Orienta\u00e7\u00e3o jur\u00eddica gratuita para comunidades e movimentos sociais.",
+    "fonte": "Universidade de Bras\u00edlia",
+    "fonte_url": "https://dex.unb.br/",
+    "atualizado_em": "2026-08"
+  },
+  {
+    "id": "extensao-matematica-comunidade-unb",
+    "nome": "Matem\u00e1tica para a Comunidade",
+    "categoria": "extensao",
+    "clinica_escola": false,
+    "localidade": "plano-piloto",
+    "endereco": "Campus Darcy Ribeiro, Departamento de Matem\u00e1tica, Asa Norte",
+    "horario": "S\u00e1bados, 9h \u00e0s 12h",
+    "descricao": "Aulas gratuitas de refor\u00e7o em matem\u00e1tica para estudantes do ensino fundamental e m\u00e9dio.",
+    "fonte": "Universidade de Bras\u00edlia",
+    "fonte_url": "https://dex.unb.br/",
+    "atualizado_em": "2026-06"
+  },
+  {
+    "id": "extensao-atendimento-psicologico-unb",
+    "nome": "Atendimento Psicol\u00f3gico \u00e0 Comunidade",
+    "categoria": "extensao",
+    "clinica_escola": false,
+    "localidade": "plano-piloto",
+    "endereco": "Campus Darcy Ribeiro, Instituto de Psicologia, Asa Norte",
+    "horario": "Segunda a sexta, 8h \u00e0s 12h e 14h \u00e0s 18h",
+    "telefone": "(61) 3107-6800",
+    "descricao": "Atendimento psicol\u00f3gico gratuito para adultos, adolescentes e crian\u00e7as.",
+    "fonte": "Universidade de Bras\u00edlia",
+    "fonte_url": "https://dex.unb.br/",
+    "atualizado_em": "2026-09"
+  }
+]

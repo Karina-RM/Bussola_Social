@@ -1,0 +1,28 @@
+[
+  {
+    "id": "extensao-horta-unb",
+    "nome": "Horta Comunit\u00e1ria: Agroecologia Urbana",
+    "categoria": "extensao",
+    "clinica_escola": false,
+    "localidade": "ceilandia",
+    "endereco": "QNM 31, \u00c1rea Especial, Ceil\u00e2ndia Sul",
+    "horario": "S\u00e1bados, 8h \u00e0s 12h",
+    "descricao": "Ensino e pr\u00e1tica de agricultura urbana. Aberto \u00e0 comunidade.",
+    "fonte": "UnB",
+    "fonte_url": "https://dex.unb.br/",
+    "atualizado_em": "2026-06"
+  },
+  {
+    "id": "extensao-inclusao-digital",
+    "nome": "Inclus\u00e3o Digital para Idosos",
+    "categoria": "extensao",
+    "clinica_escola": false,
+    "localidade": "ceilandia",
+    "endereco": "QNN 31, \u00c1rea Especial, Ceil\u00e2ndia Sul",
+    "horario": "Ter\u00e7as e quintas, 14h \u00e0s 16h",
+    "descricao": "Oficina de inform\u00e1tica b\u00e1sica para pessoas idosas.",
+    "fonte": "UCB",
+    "fonte_url": "https://ucb.catolica.edu.br/portal/extensao/",
+    "atualizado_em": "2026-07"
+  }
+]

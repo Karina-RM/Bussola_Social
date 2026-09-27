@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cnes-9834737-guara",
+    "nome": "ESPACO ODONTO",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "guara",
+    "endereco": "Q QE 30 CONJUNTO T, 01, GUARA II",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61)99353-8285"
+  },
+  {
+    "id": "cnes-5868262-guara",
+    "nome": "CLIPO CLNICA ODONTOLOGICA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "guara",
+    "endereco": "QI 04 CONJUNTO I, 05, GUARA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "061 33812324"
+  },
+  {
+    "id": "cnes-511501-guara",
+    "nome": "CEDHIC GUARA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "guara",
+    "endereco": "QI 6 LOTE C AREA ESPECIAL, S/N, GUARA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61) 3449-4938"
+  }
+]

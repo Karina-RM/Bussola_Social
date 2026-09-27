@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cras-taguatinga",
+    "nome": "CRAS Taguatinga",
+    "categoria": "assistencia_social",
+    "clinica_escola": false,
+    "localidade": "taguatinga",
+    "endereco": "CND 1, \u00c1rea Especial, Taguatinga Centro",
+    "horario": "Segunda a sexta, 8h \u00e0s 17h",
+    "telefone": "(61) 3351-3000",
+    "descricao": "Cadastro \u00danico e orienta\u00e7\u00e3o sobre benef\u00edcios socioassistenciais.",
+    "fonte": "SEDES-DF",
+    "fonte_url": "https://www.sedes.df.gov.br/cras",
+    "atualizado_em": "2026-08"
+  }
+]

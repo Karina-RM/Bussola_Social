@@ -1,0 +1,15 @@
+[
+  {
+    "id": "extensao-alfabetizacao-ucb",
+    "nome": "Alfabetiza\u00e7\u00e3o de Jovens e Adultos",
+    "categoria": "extensao",
+    "clinica_escola": false,
+    "localidade": "taguatinga",
+    "endereco": "QS 7, Lote 1, \u00c1guas Claras",
+    "horario": "Segundas e quartas, 19h \u00e0s 21h",
+    "descricao": "Curso gratuito de alfabetiza\u00e7\u00e3o para jovens e adultos. Aberto \u00e0 comunidade.",
+    "fonte": "Universidade Cat\u00f3lica de Bras\u00edlia",
+    "fonte_url": "https://ucb.catolica.edu.br/portal/extensao/",
+    "atualizado_em": "2026-07"
+  }
+]

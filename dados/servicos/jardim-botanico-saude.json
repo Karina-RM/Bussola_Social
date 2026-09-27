@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cnes-3286932-jardim-botanico",
+    "nome": "UBS 10 JOAO CANDIDO SAO SEBASTIAO",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "jardim-botanico",
+    "endereco": "RUA 14 LOTE 21 LOJAS 1 2 E 3, 21, JARDIM BOTANICO",
+    "descricao": "UBS / Centro de Saude",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cnes-3013162-gama",
+    "nome": "HOSPITAL MARIA AUXILIADORA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "gama",
+    "endereco": "A E N 16 SETOR CENTRAL LADO OESTE, 16, GAMA",
+    "descricao": "Hospital Geral",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61-37054000"
+  },
+  {
+    "id": "cnes-3107264-gama",
+    "nome": "NEPHRON GAMA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "gama",
+    "endereco": "QD 02 LOTE 10 CONJUNTO A SETOR SUL, 10, GAMA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61) 3850712"
+  },
+  {
+    "id": "cnes-3107272-gama",
+    "nome": "POLICLINICA GABRIELA LTDA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "gama",
+    "endereco": "QUADRA 01 CONJUNTO A LOTE, 06, GAMA",
+    "descricao": "Policlinica",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61) 35560123"
+  },
+  {
+    "id": "cnes-3144577-gama",
+    "nome": "UBS 11 PONTE ALTA NORTE GAMA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "gama",
+    "endereco": "DF 475 KM 5 NUCLEO RURAL, S/N, GAMA",
+    "descricao": "UBS / Centro de Saude",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09"
+  },
+  {
+    "id": "cnes-9130357-gama",
+    "nome": "ODONTO ARTE",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "gama",
+    "endereco": "QUADRA 05 LOTE, 10, GAMA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "6133845514"
+  }
+]

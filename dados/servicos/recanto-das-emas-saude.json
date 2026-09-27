@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cnes-7155042-recanto-das-emas",
+    "nome": "CLIDAE",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "recanto-das-emas",
+    "endereco": "ST HOSPITALAR NORTE, 02, RECANTO DAS EMAS",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "613373131"
+  },
+  {
+    "id": "cnes-4780485-recanto-das-emas",
+    "nome": "CLINICA ODONTOLOGICA ORE",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "recanto-das-emas",
+    "endereco": "AV RECANTO QUADRA 203 LOTE, 37, RECANTO DAS EMAS",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "6182491579"
+  },
+  {
+    "id": "cnes-7698437-recanto-das-emas",
+    "nome": "CAPS I RECANTO DAS EMAS",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "recanto-das-emas",
+    "endereco": "QUADRA 307 AREA ESPECIAL, 01, RECANTO DAS EMAS",
+    "descricao": "CAPS",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "3449-6903 3449-6904"
+  }
+]

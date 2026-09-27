@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cnes-287652-aguas-lindas",
+    "nome": "CLINICA NOVA SAUDE CENTRO MEDICO",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "aguas-lindas",
+    "endereco": "SANTA LUZIA, S/N, MANSOES CENTRO OESTE",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61 36186140"
+  },
+  {
+    "id": "cnes-3122468-aguas-lindas",
+    "nome": "INSTITUTO DE OLHOS AGUAS LINDAS",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "aguas-lindas",
+    "endereco": "AVENIDA JK QD 13 LOTE 09 10, 09, JARDIM BRASILIA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61-3613-1046"
+  },
+  {
+    "id": "cnes-4913094-aguas-lindas",
+    "nome": "CLINICA LOBATO ISECKE MEDICINA POPULAR",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "aguas-lindas",
+    "endereco": "QUADRA 1 B, S/N, JARDIM DA BARRAGEM I",
+    "descricao": "Policlinica",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09"
+  },
+  {
+    "id": "cnes-5467144-aguas-lindas",
+    "nome": "UNIDADE BASICA DE SAUDE ABILIO BRITO DOS SANTOS PADRE LUCIO",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "aguas-lindas",
+    "endereco": "RUA SEM NOME AE POLICIAL, 00, PADRE LUCIO",
+    "descricao": "UBS / Centro de Saude",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09"
+  }
+]

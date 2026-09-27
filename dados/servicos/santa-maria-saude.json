@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cnes-3144550-santa-maria",
+    "nome": "UBS 3 SANTA MARIA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "santa-maria",
+    "endereco": "QR 100 CONJ I LOTE, 1, SANTA MARIA",
+    "descricao": "UBS / Centro de Saude",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61 3449-7494"
+  },
+  {
+    "id": "cnes-3144569-santa-maria",
+    "nome": "UBS 7 SANTA MARIA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "santa-maria",
+    "endereco": "AV BRIGADEIRO PINTO DE MOURA, 01, SANTA MARIA",
+    "descricao": "UBS / Centro de Saude",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61 34497508"
+  },
+  {
+    "id": "cnes-4904826-santa-maria",
+    "nome": "I A B SANTA MARIA",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "santa-maria",
+    "endereco": "COMERCIO LOCAL, 215, SANTA MARIA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61 33493400"
+  }
+]

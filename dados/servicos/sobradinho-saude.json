@@ -1,0 +1,93 @@
+[
+  {
+    "id": "cnes-3031497-sobradinho",
+    "nome": "FISIOCORPORE",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "sobradinho",
+    "endereco": "QUADRA 7 LOTE ESPECIAL, 01, SOBRADINHO",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61) 33878675"
+  },
+  {
+    "id": "cnes-11258-sobradinho",
+    "nome": "UBS 1 SOBRADINHO II",
+    "categoria": "saude",
+    "clinica_escola": true,
+    "localidade": "sobradinho",
+    "endereco": "AR 13 AREA ESPECIAL CONJUNTO 7 LOTE, 1, SOBRADINHO II",
+    "descricao": "UBS / Centro de Saude",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "61 3449-5675"
+  },
+  {
+    "id": "cnes-8509778-sobradinho",
+    "nome": "APAE DF SOBRADINHO",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "sobradinho",
+    "endereco": "AV CONTORNO Q 9 219 591, 219591, SOBRADINHO",
+    "descricao": "Policlinica",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "6121010460"
+  },
+  {
+    "id": "cnes-7242441-sobradinho",
+    "nome": "RM CLINICA DE REABILITACAO",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "sobradinho",
+    "endereco": "RODOVIA DF 440 KM 13 NUCLEO RURAL, 1, SOBRADINHO",
+    "descricao": "Hospital Especializado",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "30343536"
+  },
+  {
+    "id": "cnes-9031340-sobradinho",
+    "nome": "ASF SOBRADINHO",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "sobradinho",
+    "endereco": "QD 8 AREA RESERVADA, 03, SOBRADINHO",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "3591-4044"
+  },
+  {
+    "id": "cnes-9475702-sobradinho",
+    "nome": "HOSPITAL DE OLHOS SOBRADINHO SALUTE",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "sobradinho",
+    "endereco": "QUADRA 7 COMERCIO LOCAL 3, 1, SOBRADINHO",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61) 3453-6746"
+  },
+  {
+    "id": "cnes-9593772-sobradinho",
+    "nome": "SALUTE Q3",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "sobradinho",
+    "endereco": "QUADRA 3 AREA RESERVADA 1, S/N, SOBRADINHO",
+    "descricao": "Policlinica",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "(61) 3034-4242"
+  }
+]

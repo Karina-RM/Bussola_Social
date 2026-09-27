@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cnes-4215265-itapoa",
+    "nome": "CENTRO CLINICO CONFIGURAR",
+    "categoria": "saude",
+    "clinica_escola": false,
+    "localidade": "itapoa",
+    "endereco": "COND MANSOES ENTRE LAGOS ETAPA 01 CONJUNTO G LOTE, 30, ITAPOA",
+    "descricao": "Clinica / Centro de Especialidade",
+    "fonte": "CNES / Ministerio da Saude",
+    "fonte_url": "https://dados.saude.gov.br/dataset/cnes",
+    "atualizado_em": "2026-09",
+    "telefone": "99644-9412"
+  }
+]

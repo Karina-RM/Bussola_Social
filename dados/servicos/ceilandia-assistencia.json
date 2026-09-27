@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cras-ceilandia-norte",
+    "nome": "CRAS Ceil\u00e2ndia Norte",
+    "categoria": "assistencia_social",
+    "clinica_escola": false,
+    "localidade": "ceilandia",
+    "endereco": "QNM 13, \u00c1rea Especial, Ceil\u00e2ndia Norte",
+    "horario": "Segunda a sexta, 8h \u00e0s 17h",
+    "telefone": "(61) 3373-7000",
+    "descricao": "Cadastro \u00danico, PAIF e orienta\u00e7\u00e3o sobre benef\u00edcios socioassistenciais.",
+    "fonte": "SEDES-DF",
+    "fonte_url": "https://www.sedes.df.gov.br/cras",
+    "atualizado_em": "2026-08"
+  },
+  {
+    "id": "creas-ceilandia",
+    "nome": "CREAS Ceil\u00e2ndia",
+    "categoria": "assistencia_social",
+    "clinica_escola": false,
+    "localidade": "ceilandia",
+    "endereco": "QNN 3, \u00c1rea Especial, Ceil\u00e2ndia Centro",
+    "horario": "Segunda a sexta, 8h \u00e0s 17h",
+    "telefone": "(61) 3373-7500",
+    "descricao": "Atendimento a pessoas em situa\u00e7\u00e3o de viola\u00e7\u00e3o de direitos.",
+    "fonte": "SEDES-DF",
+    "fonte_url": "https://www.sedes.df.gov.br/creas",
+    "atualizado_em": "2026-08"
+  },
+  {
+    "id": "npj-ceilandia-iesb",
+    "nome": "N\u00facleo de Pr\u00e1tica Jur\u00eddica do IESB",
+    "categoria": "assistencia_social",
+    "clinica_escola": true,
+    "localidade": "ceilandia",
+    "endereco": "QNM 25, Lote 1, Ceil\u00e2ndia Norte",
+    "horario": "Segunda a sexta, 8h \u00e0s 12h e 14h \u00e0s 18h",
+    "telefone": "(61) 3373-5000",
+    "descricao": "Assist\u00eancia jur\u00eddica gratuita. Atendimento por estudantes com supervis\u00e3o.",
+    "fonte": "IESB",
+    "fonte_url": "https://www.iesb.br/extensao/npj",
+    "atualizado_em": "2026-08"
+  }
+]
